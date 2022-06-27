@@ -13,26 +13,26 @@ wrapper.innerHTML = `
 
         <ul>
             <li>
-                <a href="https://markodenic.com" target="_blank">
+                <a href="https://bungferry.my.id" target="_blank">
                     <i class="fa fa-link"></i>
                 </a>
             </li>
 
             <li>
-                <a href="https://www.getrevue.co/profile/denicmarko" target="_blank">
-                    <i class="fa fa-envelope-o"></i>
+                <a href="https://www.facebook.com/bungferry.wa" target="_blank">
+                    <i class="fa fa-facebook"></i>
                 </a>
             </li>
 
             <li>
-                <a href="https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ" target="_blank">
-                    <i class="fa fa-youtube"></i>
+                <a href="https://www.twitter.com/bungferry__" target="_blank">
+                    <i class="fa fa-twitter"></i>
                 </a>
             </li>
 
             <li>
-                <a href="https://github.com/markodenic" target="_blank">
-                    <i class="fa fa-github"></i>
+                <a href="https://www.instagram.com/bungferry__" target="_blank">
+                    <i class="fa fa-instagram"></i>
                 </a>
             </li>
         </ul>
